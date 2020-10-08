@@ -1,0 +1,31 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.up {
+    height: 60px;
+    border: 2px solid black;
+    text-align: center;
+}
+
+.up a {
+    text-decoration: none;
+}
+
+.up ul {
+    margin-left: 0;
+    padding-left: 0;
+}
+
+.up li {
+    list-style-type: none;
+    display: inline;
+    margin-right: 25px;
+    font-size: 20px;
+    color: black;
+}
+
+.up li:hover {
+    color: rgb(160, 115, 47);
+}
