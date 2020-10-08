@@ -30,3 +30,13 @@ body {
 .up li:hover {
     color: rgb(160, 115, 47);
 }
+
+.ris p {
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Ubuntu Condensed', sans-serif;
+}
+
+.picture {
+    text-align: center;
+   }
